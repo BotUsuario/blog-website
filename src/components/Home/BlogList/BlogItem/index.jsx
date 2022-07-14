@@ -30,7 +30,7 @@ const BlogItem = ({
             <p>{createdAt}</p>
           </div>
         </div>
-        <Link className='blogItem-link' to={`/blog/${id}`}>Aqui </Link>
+        <Link className='blogItem-link' to={`/blog/${id}`}>Presione Aquí </Link>
       </footer>
     </div>
   );

@@ -41,7 +41,10 @@
 
 .blogItem-link {
     text-decoration: none;
-    color: inherit;
+    color: white;
+    background-color:#6190e8;
+    padding: 5px 10px;
+    border-radius: 5px;
 }
 
 .blogItem-author {

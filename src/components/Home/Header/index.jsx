@@ -6,7 +6,7 @@ const Header = () => {
     <header className="home-header">
       <h2>Blogging</h2>
       <h1>
-        <span>"</span> Nuevo Blog React + Json <span>"</span>
+        <span>"</span> Nuevo Blog Caps <span>"</span>
       </h1>
       <p>
         Blog autodidacta de Desarrollo Web <br /> Os comparto recursos para quienes empiecen su camino para ser Frontend Developer
